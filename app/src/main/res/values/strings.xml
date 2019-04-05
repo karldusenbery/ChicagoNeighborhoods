@@ -1,0 +1,45 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Chicago Neighbourhoods</string>
+
+    <!-- Place details strings -->
+    <string name="title_activity_place_details">Place Details</string>
+    <string name="place_name">Place Name</string>
+    <string name="detailed_description">Detailed decription</string>
+    <string name="info">Info</string>
+    <string name="hours">Hours</string>
+    <string name="hours_details">Operating hours of the place.</string>
+    <string name="address">Address</string>
+    <string name="address_details">address of the place</string>
+    <string name="phone">Phone</string>
+    <string name="phone_details">Phone number of the place</string>
+
+    <!-- Place details strings PLACE_NAMES-->
+    <string name="aville_name_1">Swedish American Museum</string>
+    <string name="lakeview_name_1">Wrigley Field</string>
+    <string name="loop_name_1">Willis Tower Skydeck</string>
+    <string name="wicker_name_1">The 606</string>
+
+    <!-- Place details strings PLACE_TYPES-->
+    <string name="type_1">museum</string>
+    <string name="type_2">stadium</string>
+    <string name="type_3">lookout point</string>
+    <string name="type_4">park</string>
+
+    <!-- Place details strings ADDRESSES-->
+    <string name="aville_addy_1">5211 N Clark St, Chicago, IL 60640</string>
+    <string name="wicker_addy_1">1801 N Milwaukee Ave, Chicago, IL 60647, USA</string>
+
+    <!-- Place details strings NUMBERS-->
+    <string name="aville_num_1">+1 773 728 8111</string>
+
+    <!-- Place details strings HOURS-->
+    <string name="aville_hrs_1">11AM–4PM</string>
+    <string name="wicker_hrs_1">6AM–11PM</string>
+
+    <!-- Place details strings DEATAILED_DESCRIPTIONS-->
+    <string name="aville_DD_1">Celebrating Nordic culture and history with various programs including exhibits, tours and a kids area.</string>
+    <string name="wicker_DD_1">A path bordered by rocks circles a tiny lawn at this space designed for relaxing or recreation. You can walk up to the 606 Trail and go by bicycle ro get to other areas of the city in a jiffy.</string>
+
+
+</resources>
